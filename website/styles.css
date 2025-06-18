@@ -1,0 +1,11 @@
+h1 {
+    color: rebeccapurple;
+}
+body {
+    background-color: black;
+}
+button {
+    color: aqua;
+    background-color: brown;
+    border-radius: 12px;
+}
