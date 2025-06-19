@@ -1,8 +1,17 @@
-h1 {
-    color: rebeccapurple;
-}
 body {
-    background-color: black;
+    margin: 10px;
+    padding: 0;
+    background: linear-gradient(35deg,rgba(255, 0, 234, 1) 0%, rgba(87, 98, 199, 1) 50%, rgba(237, 83, 104, 1) 100%);
+}
+
+h1 {
+    color: gold;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(35deg,rgba(255, 0, 234, 1) 0%, rgba(87, 98, 199, 1) 50%, rgba(237, 83, 104, 1) 100%);
 }
 button {
     color: aqua;
