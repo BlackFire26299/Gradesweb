@@ -20,4 +20,15 @@ nav.Navbar ul li {
 }
 nav.Navbar ul li a {
     color: red;
+    border-radius: 4px;
+    background-color: aqua;
+    padding: 1px;
+    text-decoration: none;
+}
+nav.Navbar ul li a:hover {
+    color: red;
+    border-radius: 4px;
+    background-color: aqua;
+    padding: 1px;
+    text-decoration: underline;
 }
