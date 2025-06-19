@@ -9,3 +9,15 @@ button {
     background-color: brown;
     border-radius: 12px;
 }
+nav.Navbar ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+nav.Navbar ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+nav.Navbar ul li a {
+    color: red;
+}
